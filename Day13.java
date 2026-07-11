@@ -30,6 +30,7 @@ public class Day13{
         int bottom = r-1;
         int left = 0;
         int right = c - 1;
+        List<Integer> list = new ArrayList<>();D
         
         while(top<=bottom && left<= right){
             //traverse left to right row
