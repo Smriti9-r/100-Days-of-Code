@@ -38,4 +38,4 @@ public class Day16 {
             System.out.print(entry.getKey() + ":" + entry.getValue() + " ");
         }
     }
-}
+}va
